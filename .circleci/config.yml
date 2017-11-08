@@ -6,6 +6,13 @@ version: 2
 jobs:
   build:
     docker:
+
+    machine:
+      environment:
+        ANDROID_TARGET: android-25
+        ADB_INSTALL_TIMEOUT: 12
+        ANDROID_HOME: /home/himanshurathore/android/sdk
+
       # specify the version you desire here
       - image: circleci/openjdk:8-jdk
 
