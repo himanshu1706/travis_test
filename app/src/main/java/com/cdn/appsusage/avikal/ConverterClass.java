@@ -67,11 +67,6 @@ public class ConverterClass extends AppCompatActivity {
             return null;
         }
 
-        @Override
-        protected void onPostExecute(Void aVoid) {
-            super.onPostExecute(aVoid);
-
-        }
     }
 
     public String readCountriesJson(){
