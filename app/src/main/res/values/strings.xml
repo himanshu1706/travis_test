@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppsUsagePOC</string>
+    <string name="notification_msg">Click here to open app</string>
+</resources>

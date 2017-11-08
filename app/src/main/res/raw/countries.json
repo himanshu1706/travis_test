@@ -1,0 +1,2245 @@
+{
+  "mainJsonList": [
+    {
+      "name": "Afghanistan",
+      "numeric": "004",
+      "alpha3": "AFG",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "AF",
+      "calling": "+93"
+    },
+    {
+      "name": "Åland Islands",
+      "numeric": "248",
+      "alpha3": "ALA",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "AX",
+      "calling": "+358"
+    },
+    {
+      "name": "Albania",
+      "numeric": "008",
+      "alpha3": "ALB",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "AL",
+      "calling": "+355"
+    },
+    {
+      "name": "Algeria",
+      "numeric": "012",
+      "alpha3": "DZA",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "DZ",
+      "calling": "+213"
+    },
+    {
+      "name": "American Samoa",
+      "numeric": "016",
+      "alpha3": "ASM",
+      "continent": "OC",
+      "currency": "USD",
+      "alpha2": "AS",
+      "calling": "+684"
+    },
+    {
+      "name": "Andorra",
+      "numeric": "020",
+      "alpha3": "AND",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "AD",
+      "calling": "+376"
+    },
+    {
+      "name": "Angola",
+      "numeric": "024",
+      "alpha3": "AGO",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "AO",
+      "calling": "+244"
+    },
+    {
+      "name": "Anguilla",
+      "numeric": "660",
+      "alpha3": "AIA",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "AI",
+      "calling": "+264"
+    },
+    {
+      "name": "Antarctica",
+      "numeric": "010",
+      "alpha3": "ATA",
+      "continent": "AN",
+      "currency": "USD",
+      "alpha2": "AQ",
+      "calling": "+672"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "numeric": "028",
+      "alpha3": "ATG",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "AG",
+      "calling": "+268"
+    },
+    {
+      "name": "Argentina",
+      "numeric": "032",
+      "alpha3": "ARG",
+      "continent": "SA",
+      "currency": "USD",
+      "alpha2": "AR",
+      "calling": "+54"
+    },
+    {
+      "name": "Armenia",
+      "numeric": "051",
+      "alpha3": "ARM",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "AM",
+      "calling": "+374"
+    },
+    {
+      "name": "Aruba",
+      "numeric": "533",
+      "alpha3": "ABW",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "AW",
+      "calling": "+297"
+    },
+    {
+      "name": "Australia",
+      "numeric": "036",
+      "alpha3": "AUS",
+      "continent": "OC",
+      "currency": "AUD",
+      "alpha2": "AU",
+      "calling": "+61"
+    },
+    {
+      "name": "Austria",
+      "numeric": "040",
+      "alpha3": "AUT",
+      "continent": "EU",
+      "currency": "EUR",
+      "alpha2": "AT",
+      "calling": "+43"
+    },
+    {
+      "name": "Azerbaijan",
+      "numeric": "031",
+      "alpha3": "AZE",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "AZ",
+      "calling": "+994"
+    },
+    {
+      "name": "Bahamas",
+      "numeric": "044",
+      "alpha3": "BHS",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "BS",
+      "calling": "+242"
+    },
+    {
+      "name": "Bahrain",
+      "numeric": "048",
+      "alpha3": "BHR",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "BH",
+      "calling": "+973"
+    },
+    {
+      "name": "Bangladesh",
+      "numeric": "050",
+      "alpha3": "BGD",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "BD",
+      "calling": "+880"
+    },
+    {
+      "name": "Barbados",
+      "numeric": "052",
+      "alpha3": "BRB",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "BB",
+      "calling": "+246"
+    },
+    {
+      "name": "Belarus",
+      "numeric": "112",
+      "alpha3": "BLR",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "BY",
+      "calling": "+375"
+    },
+    {
+      "name": "Belgium",
+      "numeric": "056",
+      "alpha3": "BEL",
+      "continent": "EU",
+      "currency": "EUR",
+      "alpha2": "BE",
+      "calling": "+32"
+    },
+    {
+      "name": "Belize",
+      "numeric": "084",
+      "alpha3": "BLZ",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "BZ",
+      "calling": "+501"
+    },
+    {
+      "name": "Benin",
+      "numeric": "204",
+      "alpha3": "BEN",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "BJ",
+      "calling": "+229"
+    },
+    {
+      "name": "Bermuda",
+      "numeric": "060",
+      "alpha3": "BMU",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "BM",
+      "calling": "+441"
+    },
+    {
+      "name": "Bhutan",
+      "numeric": "064",
+      "alpha3": "BTN",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "BT",
+      "calling": "+975"
+    },
+    {
+      "name": "Bolivia, Plurinational State of",
+      "numeric": "068",
+      "alpha3": "BOL",
+      "continent": "SA",
+      "currency": "USD",
+      "alpha2": "BO",
+      "calling": "+591"
+    },
+    {
+      "name": "Bonaire, Sint Eustatius and Saba",
+      "numeric": "535",
+      "alpha3": "BES",
+      "continent": "SA",
+      "currency": "USD",
+      "alpha2": "BQ",
+      "calling": "+599"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "numeric": "070",
+      "alpha3": "BIH",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "BA",
+      "calling": "+387"
+    },
+    {
+      "name": "Botswana",
+      "numeric": "072",
+      "alpha3": "BWA",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "BW",
+      "calling": "+267"
+    },
+    {
+      "name": "Bouvet Island",
+      "numeric": "074",
+      "alpha3": "BVT",
+      "continent": "AN",
+      "currency": "USD",
+      "alpha2": "BV",
+      "calling": "+47"
+    },
+    {
+      "name": "Brazil",
+      "numeric": "076",
+      "alpha3": "BRA",
+      "continent": "SA",
+      "currency": "USD",
+      "alpha2": "BR",
+      "calling": "+55"
+    },
+    {
+      "name": "British Indian Ocean Territory",
+      "numeric": "086",
+      "alpha3": "IOT",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "IO",
+      "calling": "+246"
+    },
+    {
+      "name": "Brunei Darussalam",
+      "numeric": "096",
+      "alpha3": "BRN",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "BN",
+      "calling": "+673"
+    },
+    {
+      "name": "Bulgaria",
+      "numeric": "100",
+      "alpha3": "BGR",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "BG",
+      "calling": "+359"
+    },
+    {
+      "name": "Burkina Faso",
+      "numeric": "854",
+      "alpha3": "BFA",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "BF",
+      "calling": "+226"
+    },
+    {
+      "name": "Burundi",
+      "numeric": "108",
+      "alpha3": "BDI",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "BI",
+      "calling": "+257"
+    },
+    {
+      "name": "Cambodia",
+      "numeric": "116",
+      "alpha3": "KHM",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "KH",
+      "calling": "+855"
+    },
+    {
+      "name": "Cameroon",
+      "numeric": "120",
+      "alpha3": "CMR",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "CM",
+      "calling": "+237"
+    },
+    {
+      "name": "Canada",
+      "numeric": "124",
+      "alpha3": "CAN",
+      "continent": "NA",
+      "currency": "CAD",
+      "alpha2": "CA",
+      "calling": "+1"
+    },
+    {
+      "name": "Cabo Verde",
+      "numeric": "132",
+      "alpha3": "CPV",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "CV",
+      "calling": "+238"
+    },
+    {
+      "name": "Cayman Islands",
+      "numeric": "136",
+      "alpha3": "CYM",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "KY",
+      "calling": "+345"
+    },
+    {
+      "name": "Central African Republic",
+      "numeric": "140",
+      "alpha3": "CAF",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "CF",
+      "calling": "+236"
+    },
+    {
+      "name": "Chad",
+      "numeric": "148",
+      "alpha3": "TCD",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "TD",
+      "calling": "+235"
+    },
+    {
+      "name": "Chile",
+      "numeric": "152",
+      "alpha3": "CHL",
+      "continent": "SA",
+      "currency": "USD",
+      "alpha2": "CL",
+      "calling": "+56"
+    },
+    {
+      "name": "China",
+      "numeric": "156",
+      "alpha3": "CHN",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "CN",
+      "calling": "+86"
+    },
+    {
+      "name": "Christmas Island",
+      "numeric": "162",
+      "alpha3": "CXR",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "CX",
+      "calling": "+61"
+    },
+    {
+      "name": "Cocos (Keeling) Islands",
+      "numeric": "166",
+      "alpha3": "CCK",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "CC",
+      "calling": "+891"
+    },
+    {
+      "name": "Colombia",
+      "numeric": "170",
+      "alpha3": "COL",
+      "continent": "SA",
+      "currency": "USD",
+      "alpha2": "CO",
+      "calling": "+57"
+    },
+    {
+      "name": "Comoros",
+      "numeric": "174",
+      "alpha3": "COM",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "KM",
+      "calling": "+269"
+    },
+    {
+      "name": "Congo",
+      "numeric": "178",
+      "alpha3": "COG",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "CG",
+      "calling": "+242"
+    },
+    {
+      "name": "Congo, the Democratic Republic of the",
+      "numeric": "180",
+      "alpha3": "COD",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "CD",
+      "calling": "+243"
+    },
+    {
+      "name": "Cook Islands",
+      "numeric": "184",
+      "alpha3": "COK",
+      "continent": "OC",
+      "currency": "USD",
+      "alpha2": "CK",
+      "calling": "+682"
+    },
+    {
+      "name": "Costa Rica",
+      "numeric": "188",
+      "alpha3": "CRI",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "CR",
+      "calling": "+506"
+    },
+    {
+      "name": "Côte d'Ivoire",
+      "numeric": "384",
+      "alpha3": "CIV",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "CI",
+      "calling": "+225"
+    },
+    {
+      "name": "Croatia",
+      "numeric": "191",
+      "alpha3": "HRV",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "HR",
+      "calling": "+385"
+    },
+    {
+      "name": "Cuba",
+      "numeric": "192",
+      "alpha3": "CUB",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "CU",
+      "calling": "+53"
+    },
+    {
+      "name": "Curaçao",
+      "numeric": "531",
+      "alpha3": "CUW",
+      "continent": "",
+      "currency": "USD",
+      "alpha2": "CW",
+      "calling": "+599"
+    },
+    {
+      "name": "Cyprus",
+      "numeric": "196",
+      "alpha3": "CYP",
+      "continent": "AS",
+      "currency": "EUR",
+      "alpha2": "CY",
+      "calling": "+357"
+    },
+    {
+      "name": "Czech Republic",
+      "numeric": "203",
+      "alpha3": "CZE",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "CZ",
+      "calling": "+420"
+    },
+    {
+      "name": "Denmark",
+      "numeric": "208",
+      "alpha3": "DNK",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "DK",
+      "calling": "+45"
+    },
+    {
+      "name": "Djibouti",
+      "numeric": "262",
+      "alpha3": "DJI",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "DJ",
+      "calling": "+253"
+    },
+    {
+      "name": "Dominica",
+      "numeric": "212",
+      "alpha3": "DMA",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "DM",
+      "calling": "+767"
+    },
+    {
+      "name": "Dominican Republic",
+      "numeric": "214",
+      "alpha3": "DOM",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "DO",
+      "calling": "+809"
+    },
+    {
+      "name": "Ecuador",
+      "numeric": "218",
+      "alpha3": "ECU",
+      "continent": "SA",
+      "currency": "USD",
+      "alpha2": "EC",
+      "calling": "+593"
+    },
+    {
+      "name": "Egypt",
+      "numeric": "818",
+      "alpha3": "EGY",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "EG",
+      "calling": "+20"
+    },
+    {
+      "name": "El Salvador",
+      "numeric": "222",
+      "alpha3": "SLV",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "SV",
+      "calling": "+503"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "numeric": "226",
+      "alpha3": "GNQ",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "GQ",
+      "calling": "+240"
+    },
+    {
+      "name": "Eritrea",
+      "numeric": "232",
+      "alpha3": "ERI",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "ER",
+      "calling": "+291"
+    },
+    {
+      "name": "Estonia",
+      "numeric": "233",
+      "alpha3": "EST",
+      "continent": "EU",
+      "currency": "EUR",
+      "alpha2": "EE",
+      "calling": "+372"
+    },
+    {
+      "name": "Ethiopia",
+      "numeric": "231",
+      "alpha3": "ETH",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "ET",
+      "calling": "+251"
+    },
+    {
+      "name": "Falkland Islands (Malvinas)",
+      "numeric": "238",
+      "alpha3": "FLK",
+      "continent": "SA",
+      "currency": "USD",
+      "alpha2": "FK",
+      "calling": "+500"
+    },
+    {
+      "name": "Faroe Islands",
+      "numeric": "234",
+      "alpha3": "FRO",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "FO",
+      "calling": "+298"
+    },
+    {
+      "name": "Fiji",
+      "numeric": "242",
+      "alpha3": "FJI",
+      "continent": "OC",
+      "currency": "USD",
+      "alpha2": "FJ",
+      "calling": "+679"
+    },
+    {
+      "name": "Finland",
+      "numeric": "246",
+      "alpha3": "FIN",
+      "continent": "EU",
+      "currency": "EUR",
+      "alpha2": "FI",
+      "calling": "+358"
+    },
+    {
+      "name": "France",
+      "numeric": "250",
+      "alpha3": "FRA",
+      "continent": "EU",
+      "currency": "EUR",
+      "alpha2": "FR",
+      "calling": "+33"
+    },
+    {
+      "name": "French Guiana",
+      "numeric": "254",
+      "alpha3": "GUF",
+      "continent": "SA",
+      "currency": "USD",
+      "alpha2": "GF",
+      "calling": "+594"
+    },
+    {
+      "name": "French Polynesia",
+      "numeric": "258",
+      "alpha3": "PYF",
+      "continent": "OC",
+      "currency": "USD",
+      "alpha2": "PF",
+      "calling": "+689"
+    },
+    {
+      "name": "French Southern Territories",
+      "numeric": "260",
+      "alpha3": "ATF",
+      "continent": "AN",
+      "currency": "USD",
+      "alpha2": "TF",
+      "calling": "+689"
+    },
+    {
+      "name": "Gabon",
+      "numeric": "266",
+      "alpha3": "GAB",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "GA",
+      "calling": "+241"
+    },
+    {
+      "name": "Gambia",
+      "numeric": "270",
+      "alpha3": "GMB",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "GM",
+      "calling": "+220"
+    },
+    {
+      "name": "Georgia",
+      "numeric": "268",
+      "alpha3": "GEO",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "GE",
+      "calling": "+995"
+    },
+    {
+      "name": "Germany",
+      "numeric": "276",
+      "alpha3": "DEU",
+      "continent": "EU",
+      "currency": "EUR",
+      "alpha2": "DE",
+      "calling": "+49"
+    },
+    {
+      "name": "Ghana",
+      "numeric": "288",
+      "alpha3": "GHA",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "GH",
+      "calling": "+233"
+    },
+    {
+      "name": "Gibraltar",
+      "numeric": "292",
+      "alpha3": "GIB",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "GI",
+      "calling": "+350"
+    },
+    {
+      "name": "Greece",
+      "numeric": "300",
+      "alpha3": "GRC",
+      "continent": "EU",
+      "currency": "EUR",
+      "alpha2": "GR",
+      "calling": "+30"
+    },
+    {
+      "name": "Greenland",
+      "numeric": "304",
+      "alpha3": "GRL",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "GL",
+      "calling": "+299"
+    },
+    {
+      "name": "Grenada",
+      "numeric": "308",
+      "alpha3": "GRD",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "GD",
+      "calling": "+473"
+    },
+    {
+      "name": "Guadeloupe",
+      "numeric": "312",
+      "alpha3": "GLP",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "GP",
+      "calling": "+590"
+    },
+    {
+      "name": "Guam",
+      "numeric": "316",
+      "alpha3": "GUM",
+      "continent": "OC",
+      "currency": "USD",
+      "alpha2": "GU",
+      "calling": "+671"
+    },
+    {
+      "name": "Guatemala",
+      "numeric": "320",
+      "alpha3": "GTM",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "GT",
+      "calling": "+502"
+    },
+    {
+      "name": "Guernsey",
+      "numeric": "831",
+      "alpha3": "GGY",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "GG",
+      "calling": "+1481"
+    },
+    {
+      "name": "Guinea",
+      "numeric": "324",
+      "alpha3": "GIN",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "GN",
+      "calling": "+225"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "numeric": "624",
+      "alpha3": "GNB",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "GW",
+      "calling": "+245"
+    },
+    {
+      "name": "Guyana",
+      "numeric": "328",
+      "alpha3": "GUY",
+      "continent": "SA",
+      "currency": "USD",
+      "alpha2": "GY",
+      "calling": "+592"
+    },
+    {
+      "name": "Haiti",
+      "numeric": "332",
+      "alpha3": "HTI",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "HT",
+      "calling": "+509"
+    },
+    {
+      "name": "Heard Island and McDonald Islands",
+      "numeric": "334",
+      "alpha3": "HMD",
+      "continent": "AN",
+      "currency": "USD",
+      "alpha2": "HM",
+      "calling": "+61"
+    },
+    {
+      "name": "Holy See (Vatican City State)",
+      "numeric": "336",
+      "alpha3": "VAT",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "VA",
+      "calling": "+379"
+    },
+    {
+      "name": "Honduras",
+      "numeric": "340",
+      "alpha3": "HND",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "HN",
+      "calling": "+504"
+    },
+    {
+      "name": "Hong Kong",
+      "numeric": "344",
+      "alpha3": "HKG",
+      "continent": "AS",
+      "currency": "HKD",
+      "alpha2": "HK",
+      "calling": "+852"
+    },
+    {
+      "name": "Hungary",
+      "numeric": "348",
+      "alpha3": "HUN",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "HU",
+      "calling": "+36"
+    },
+    {
+      "name": "Iceland",
+      "numeric": "352",
+      "alpha3": "ISL",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "IS",
+      "calling": "+354"
+    },
+    {
+      "name": "India",
+      "numeric": "356",
+      "alpha3": "IND",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "IN",
+      "calling": "+91"
+    },
+    {
+      "name": "Indonesia",
+      "numeric": "360",
+      "alpha3": "IDN",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "ID",
+      "calling": "+62"
+    },
+    {
+      "name": "Iran, Islamic Republic of",
+      "numeric": "364",
+      "alpha3": "IRN",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "IR",
+      "calling": "+98"
+    },
+    {
+      "name": "Iraq",
+      "numeric": "368",
+      "alpha3": "IRQ",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "IQ",
+      "calling": "+964"
+    },
+    {
+      "name": "Ireland",
+      "numeric": "372",
+      "alpha3": "IRL",
+      "continent": "EU",
+      "currency": "EUR",
+      "alpha2": "IE",
+      "calling": "+353"
+    },
+    {
+      "name": "Isle of Man",
+      "numeric": "833",
+      "alpha3": "IMN",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "IM",
+      "calling": "+44"
+    },
+    {
+      "name": "Israel",
+      "numeric": "376",
+      "alpha3": "ISR",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "IL",
+      "calling": "+972"
+    },
+    {
+      "name": "Italy",
+      "numeric": "380",
+      "alpha3": "ITA",
+      "continent": "EU",
+      "currency": "EUR",
+      "alpha2": "IT",
+      "calling": "+39"
+    },
+    {
+      "name": "Jamaica",
+      "numeric": "388",
+      "alpha3": "JAM",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "JM",
+      "calling": "+876"
+    },
+    {
+      "name": "Japan",
+      "numeric": "392",
+      "alpha3": "JPN",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "JP",
+      "calling": "+81"
+    },
+    {
+      "name": "Jersey",
+      "numeric": "832",
+      "alpha3": "JEY",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "JE",
+      "calling": "+44"
+    },
+    {
+      "name": "Jordan",
+      "numeric": "400",
+      "alpha3": "JOR",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "JO",
+      "calling": "+962"
+    },
+    {
+      "name": "Kazakhstan",
+      "numeric": "398",
+      "alpha3": "KAZ",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "KZ",
+      "calling": "+7"
+    },
+    {
+      "name": "Kenya",
+      "numeric": "404",
+      "alpha3": "KEN",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "KE",
+      "calling": "+254"
+    },
+    {
+      "name": "Kiribati",
+      "numeric": "296",
+      "alpha3": "KIR",
+      "continent": "OC",
+      "currency": "USD",
+      "alpha2": "KI",
+      "calling": "+686"
+    },
+    {
+      "name": "Korea, Democratic People's Republic of",
+      "numeric": "408",
+      "alpha3": "PRK",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "KP",
+      "calling": "+850"
+    },
+    {
+      "name": "Korea, Republic of",
+      "numeric": "410",
+      "alpha3": "KOR",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "KR",
+      "calling": "+82"
+    },
+    {
+      "name": "Kuwait",
+      "numeric": "414",
+      "alpha3": "KWT",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "KW",
+      "calling": "+965"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "numeric": "417",
+      "alpha3": "KGZ",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "KG",
+      "calling": "+996"
+    },
+    {
+      "name": "Lao People's Democratic Republic",
+      "numeric": "418",
+      "alpha3": "LAO",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "LA",
+      "calling": "+856"
+    },
+    {
+      "name": "Latvia",
+      "numeric": "428",
+      "alpha3": "LVA",
+      "continent": "EU",
+      "currency": "EUR",
+      "alpha2": "LV",
+      "calling": "+371"
+    },
+    {
+      "name": "Lebanon",
+      "numeric": "422",
+      "alpha3": "LBN",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "LB",
+      "calling": "+961"
+    },
+    {
+      "name": "Lesotho",
+      "numeric": "426",
+      "alpha3": "LSO",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "LS",
+      "calling": "+266"
+    },
+    {
+      "name": "Liberia",
+      "numeric": "430",
+      "alpha3": "LBR",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "LR",
+      "calling": "+231"
+    },
+    {
+      "name": "Libya",
+      "numeric": "434",
+      "alpha3": "LBY",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "LY",
+      "calling": "+218"
+    },
+    {
+      "name": "Liechtenstein",
+      "numeric": "438",
+      "alpha3": "LIE",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "LI",
+      "calling": "+423"
+    },
+    {
+      "name": "Lithuania",
+      "numeric": "440",
+      "alpha3": "LTU",
+      "continent": "EU",
+      "currency": "EUR",
+      "alpha2": "LT",
+      "calling": "+370"
+    },
+    {
+      "name": "Luxembourg",
+      "numeric": "442",
+      "alpha3": "LUX",
+      "continent": "EU",
+      "currency": "EUR",
+      "alpha2": "LU",
+      "calling": "+352"
+    },
+    {
+      "name": "Macao",
+      "numeric": "446",
+      "alpha3": "MAC",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "MO",
+      "calling": "+853"
+    },
+    {
+      "name": "Macedonia, the former Yugoslav Republic of",
+      "numeric": "807",
+      "alpha3": "MKD",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "MK",
+      "calling": "+389"
+    },
+    {
+      "name": "Madagascar",
+      "numeric": "450",
+      "alpha3": "MDG",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "MG",
+      "calling": "+261"
+    },
+    {
+      "name": "Malawi",
+      "numeric": "454",
+      "alpha3": "MWI",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "MW",
+      "calling": "+265"
+    },
+    {
+      "name": "Malaysia",
+      "numeric": "458",
+      "alpha3": "MYS",
+      "continent": "AS",
+      "currency": "MYR",
+      "alpha2": "MY",
+      "calling": "+60"
+    },
+    {
+      "name": "Maldives",
+      "numeric": "462",
+      "alpha3": "MDV",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "MV",
+      "calling": "+960"
+    },
+    {
+      "name": "Mali",
+      "numeric": "466",
+      "alpha3": "MLI",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "ML",
+      "calling": "+223"
+    },
+    {
+      "name": "Malta",
+      "numeric": "470",
+      "alpha3": "MLT",
+      "continent": "EU",
+      "currency": "EUR",
+      "alpha2": "MT",
+      "calling": "+356"
+    },
+    {
+      "name": "Marshall Islands",
+      "numeric": "584",
+      "alpha3": "MHL",
+      "continent": "OC",
+      "currency": "USD",
+      "alpha2": "MH",
+      "calling": "+692"
+    },
+    {
+      "name": "Martinique",
+      "numeric": "474",
+      "alpha3": "MTQ",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "MQ",
+      "calling": "+596"
+    },
+    {
+      "name": "Mauritania",
+      "numeric": "478",
+      "alpha3": "MRT",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "MR",
+      "calling": "+222"
+    },
+    {
+      "name": "Mauritius",
+      "numeric": "480",
+      "alpha3": "MUS",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "MU",
+      "calling": "+230"
+    },
+    {
+      "name": "Mayotte",
+      "numeric": "175",
+      "alpha3": "MYT",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "YT",
+      "calling": "+262"
+    },
+    {
+      "name": "Mexico",
+      "numeric": "484",
+      "alpha3": "MEX",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "MX",
+      "calling": "+52"
+    },
+    {
+      "name": "Micronesia, Federated States of",
+      "numeric": "583",
+      "alpha3": "FSM",
+      "continent": "OC",
+      "currency": "USD",
+      "alpha2": "FM",
+      "calling": "+691"
+    },
+    {
+      "name": "Moldova, Republic of",
+      "numeric": "498",
+      "alpha3": "MDA",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "MD",
+      "calling": "+373"
+    },
+    {
+      "name": "Monaco",
+      "numeric": "492",
+      "alpha3": "MCO",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "MC",
+      "calling": "+355"
+    },
+    {
+      "name": "Mongolia",
+      "numeric": "496",
+      "alpha3": "MNG",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "MN",
+      "calling": "+976"
+    },
+    {
+      "name": "Montenegro",
+      "numeric": "499",
+      "alpha3": "MNE",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "ME",
+      "calling": "+382"
+    },
+    {
+      "name": "Montserrat",
+      "numeric": "500",
+      "alpha3": "MSR",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "MS",
+      "calling": "+664"
+    },
+    {
+      "name": "Morocco",
+      "numeric": "504",
+      "alpha3": "MAR",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "MA",
+      "calling": "+212"
+    },
+    {
+      "name": "Mozambique",
+      "numeric": "508",
+      "alpha3": "MOZ",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "MZ",
+      "calling": "+258"
+    },
+    {
+      "name": "Myanmar",
+      "numeric": "104",
+      "alpha3": "MMR",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "MM",
+      "calling": "+95"
+    },
+    {
+      "name": "Namibia",
+      "numeric": "516",
+      "alpha3": "NAM",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "NA",
+      "calling": "+264"
+    },
+    {
+      "name": "Nauru",
+      "numeric": "520",
+      "alpha3": "NRU",
+      "continent": "OC",
+      "currency": "USD",
+      "alpha2": "NR",
+      "calling": "+674"
+    },
+    {
+      "name": "Nepal",
+      "numeric": "524",
+      "alpha3": "NPL",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "NP",
+      "calling": "+977"
+    },
+    {
+      "name": "Netherlands",
+      "numeric": "528",
+      "alpha3": "NLD",
+      "continent": "EU",
+      "currency": "EUR",
+      "alpha2": "NL",
+      "calling": "+31"
+    },
+    {
+      "name": "New Caledonia",
+      "numeric": "540",
+      "alpha3": "NCL",
+      "continent": "OC",
+      "currency": "USD",
+      "alpha2": "NC",
+      "calling": "+687"
+    },
+    {
+      "name": "New Zealand",
+      "numeric": "554",
+      "alpha3": "NZL",
+      "continent": "OC",
+      "currency": "NZD",
+      "alpha2": "NZ",
+      "calling": "+64"
+    },
+    {
+      "name": "Nicaragua",
+      "numeric": "558",
+      "alpha3": "NIC",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "NI",
+      "calling": "+505"
+    },
+    {
+      "name": "Niger",
+      "numeric": "562",
+      "alpha3": "NER",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "NE",
+      "calling": "+277"
+    },
+    {
+      "name": "Nigeria",
+      "numeric": "566",
+      "alpha3": "NGA",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "NG",
+      "calling": "+234"
+    },
+    {
+      "name": "Niue",
+      "numeric": "570",
+      "alpha3": "NIU",
+      "continent": "OC",
+      "currency": "USD",
+      "alpha2": "NU",
+      "calling": "+683"
+    },
+    {
+      "name": "Norfolk Island",
+      "numeric": "574",
+      "alpha3": "NFK",
+      "continent": "OC",
+      "currency": "USD",
+      "alpha2": "NF",
+      "calling": "+672"
+    },
+    {
+      "name": "Northern Mariana Islands",
+      "numeric": "580",
+      "alpha3": "MNP",
+      "continent": "OC",
+      "currency": "USD",
+      "alpha2": "MP",
+      "calling": "+670"
+    },
+    {
+      "name": "Norway",
+      "numeric": "578",
+      "alpha3": "NOR",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "NO",
+      "calling": "+47"
+    },
+    {
+      "name": "Oman",
+      "numeric": "512",
+      "alpha3": "OMN",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "OM",
+      "calling": "+968"
+    },
+    {
+      "name": "Pakistan",
+      "numeric": "586",
+      "alpha3": "PAK",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "PK",
+      "calling": "+92"
+    },
+    {
+      "name": "Palau",
+      "numeric": "585",
+      "alpha3": "PLW",
+      "continent": "OC",
+      "currency": "USD",
+      "alpha2": "PW",
+      "calling": "+680"
+    },
+    {
+      "name": "Palestine, State of",
+      "numeric": "275",
+      "alpha3": "PSE",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "PS",
+      "calling": "+970"
+    },
+    {
+      "name": "Panama",
+      "numeric": "591",
+      "alpha3": "PAN",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "PA",
+      "calling": "+507"
+    },
+    {
+      "name": "Papua New Guinea",
+      "numeric": "598",
+      "alpha3": "PNG",
+      "continent": "OC",
+      "currency": "USD",
+      "alpha2": "PG",
+      "calling": "+675"
+    },
+    {
+      "name": "Paraguay",
+      "numeric": "600",
+      "alpha3": "PRY",
+      "continent": "SA",
+      "currency": "USD",
+      "alpha2": "PY",
+      "calling": "+595"
+    },
+    {
+      "name": "Peru",
+      "numeric": "604",
+      "alpha3": "PER",
+      "continent": "SA",
+      "currency": "USD",
+      "alpha2": "PE",
+      "calling": "+51"
+    },
+    {
+      "name": "Philippines",
+      "numeric": "608",
+      "alpha3": "PHL",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "PH",
+      "calling": "+63"
+    },
+    {
+      "name": "Pitcairn",
+      "numeric": "612",
+      "alpha3": "PCN",
+      "continent": "OC",
+      "currency": "USD",
+      "alpha2": "PN",
+      "calling": "+872"
+    },
+    {
+      "name": "Poland",
+      "numeric": "616",
+      "alpha3": "POL",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "PL",
+      "calling": "+48"
+    },
+    {
+      "name": "Portugal",
+      "numeric": "620",
+      "alpha3": "PRT",
+      "continent": "EU",
+      "currency": "EUR",
+      "alpha2": "PT",
+      "calling": "+351"
+    },
+    {
+      "name": "Puerto Rico",
+      "numeric": "630",
+      "alpha3": "PRI",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "PR",
+      "calling": "+787"
+    },
+    {
+      "name": "Qatar",
+      "numeric": "634",
+      "alpha3": "QAT",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "QA",
+      "calling": "+974"
+    },
+    {
+      "name": "Réunion",
+      "numeric": "638",
+      "alpha3": "REU",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "RE",
+      "calling": "+262"
+    },
+    {
+      "name": "Romania",
+      "numeric": "642",
+      "alpha3": "ROU",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "RO",
+      "calling": "+40"
+    },
+    {
+      "name": "Russian Federation",
+      "numeric": "643",
+      "alpha3": "RUS",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "RU",
+      "calling": "+7"
+    },
+    {
+      "name": "Rwanda",
+      "numeric": "646",
+      "alpha3": "RWA",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "RW",
+      "calling": "+250"
+    },
+    {
+      "name": "Saint Barthélemy",
+      "numeric": "652",
+      "alpha3": "BLM",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "BL",
+      "calling": "+590"
+    },
+    {
+      "name": "Saint Helena, Ascension and Tristan da Cunha",
+      "numeric": "654",
+      "alpha3": "SHN",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "SH",
+      "calling": "+290"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "numeric": "659",
+      "alpha3": "KNA",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "KN",
+      "calling": "+869"
+    },
+    {
+      "name": "Saint Lucia",
+      "numeric": "662",
+      "alpha3": "LCA",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "LC",
+      "calling": "+758"
+    },
+    {
+      "name": "Saint Martin (French part)",
+      "numeric": "663",
+      "alpha3": "MAF",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "MF",
+      "calling": "+590"
+    },
+    {
+      "name": "Saint Pierre and Miquelon",
+      "numeric": "666",
+      "alpha3": "SPM",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "PM",
+      "calling": "+508"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "numeric": "670",
+      "alpha3": "VCT",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "VC",
+      "calling": "+784"
+    },
+    {
+      "name": "Samoa",
+      "numeric": "882",
+      "alpha3": "WSM",
+      "continent": "OC",
+      "currency": "USD",
+      "alpha2": "WS",
+      "calling": "+685"
+    },
+    {
+      "name": "San Marino",
+      "numeric": "674",
+      "alpha3": "SMR",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "SM",
+      "calling": "+378"
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "numeric": "678",
+      "alpha3": "STP",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "ST",
+      "calling": "+239"
+    },
+    {
+      "name": "SUSDi Arabia",
+      "numeric": "682",
+      "alpha3": "SAU",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "SA",
+      "calling": "+966"
+    },
+    {
+      "name": "Senegal",
+      "numeric": "686",
+      "alpha3": "SEN",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "SN",
+      "calling": "+221"
+    },
+    {
+      "name": "Serbia",
+      "numeric": "688",
+      "alpha3": "SRB",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "RS",
+      "calling": "+381"
+    },
+    {
+      "name": "Seychelles",
+      "numeric": "690",
+      "alpha3": "SYC",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "SC",
+      "calling": "+248"
+    },
+    {
+      "name": "Sierra Leone",
+      "numeric": "694",
+      "alpha3": "SLE",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "SL",
+      "calling": "+232"
+    },
+    {
+      "name": "Singapore",
+      "numeric": "702",
+      "alpha3": "SGP",
+      "continent": "AS",
+      "currency": "SGD",
+      "alpha2": "SG",
+      "calling": "+65"
+    },
+    {
+      "name": "Sint Maarten (Dutch part)",
+      "numeric": "534",
+      "alpha3": "SXM",
+      "continent": "",
+      "currency": "USD",
+      "alpha2": "SX",
+      "calling": "+599"
+    },
+    {
+      "name": "Slovakia",
+      "numeric": "703",
+      "alpha3": "SVK",
+      "continent": "EU",
+      "currency": "EUR",
+      "alpha2": "SK",
+      "calling": "+421"
+    },
+    {
+      "name": "Slovenia",
+      "numeric": "705",
+      "alpha3": "SVN",
+      "continent": "EU",
+      "currency": "EUR",
+      "alpha2": "SI",
+      "calling": "+386"
+    },
+    {
+      "name": "Solomon Islands",
+      "numeric": "090",
+      "alpha3": "SLB",
+      "continent": "OC",
+      "currency": "USD",
+      "alpha2": "SB",
+      "calling": "+677"
+    },
+    {
+      "name": "Somalia",
+      "numeric": "706",
+      "alpha3": "SOM",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "SO",
+      "calling": "+252"
+    },
+    {
+      "name": "South Africa",
+      "numeric": "710",
+      "alpha3": "ZAF",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "ZA",
+      "calling": "+27"
+    },
+    {
+      "name": "South Georgia and the South Sandwich Islands",
+      "numeric": "239",
+      "alpha3": "SGS",
+      "continent": "AN",
+      "currency": "USD",
+      "alpha2": "GS",
+      "calling": "+500"
+    },
+    {
+      "name": "South Sudan",
+      "numeric": "728",
+      "alpha3": "SSD",
+      "continent": "",
+      "currency": "USD",
+      "alpha2": "SS",
+      "calling": "+211"
+    },
+    {
+      "name": "Spain",
+      "numeric": "724",
+      "alpha3": "ESP",
+      "continent": "EU",
+      "currency": "EUR",
+      "alpha2": "ES",
+      "calling": "+34"
+    },
+    {
+      "name": "Sri Lanka",
+      "numeric": "144",
+      "alpha3": "LKA",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "LK",
+      "calling": "+94"
+    },
+    {
+      "name": "Sudan",
+      "numeric": "729",
+      "alpha3": "SDN",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "SD",
+      "calling": "+249"
+    },
+    {
+      "name": "Suriname",
+      "numeric": "740",
+      "alpha3": "SUR",
+      "continent": "SA",
+      "currency": "USD",
+      "alpha2": "SR",
+      "calling": "+597"
+    },
+    {
+      "name": "Svalbard and Jan Mayen",
+      "numeric": "744",
+      "alpha3": "SJM",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "SJ",
+      "calling": "+47"
+    },
+    {
+      "name": "Swaziland",
+      "numeric": "748",
+      "alpha3": "SWZ",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "SZ",
+      "calling": "+268"
+    },
+    {
+      "name": "Sweden",
+      "numeric": "752",
+      "alpha3": "SWE",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "SE",
+      "calling": "+46"
+    },
+    {
+      "name": "Switzerland",
+      "numeric": "756",
+      "alpha3": "CHE",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "CH",
+      "calling": "+41"
+    },
+    {
+      "name": "Syrian Arab Republic",
+      "numeric": "760",
+      "alpha3": "SYR",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "SY",
+      "calling": "+963"
+    },
+    {
+      "name": "Taiwan, Province of China",
+      "numeric": "158",
+      "alpha3": "TWN",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "TW",
+      "calling": "+886"
+    },
+    {
+      "name": "Tajikistan",
+      "numeric": "762",
+      "alpha3": "TJK",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "TJ",
+      "calling": "+992"
+    },
+    {
+      "name": "Tanzania, United Republic of",
+      "numeric": "834",
+      "alpha3": "TZA",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "TZ",
+      "calling": "+255"
+    },
+    {
+      "name": "Thailand",
+      "numeric": "764",
+      "alpha3": "THA",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "TH",
+      "calling": "+66"
+    },
+    {
+      "name": "Timor-Leste",
+      "numeric": "626",
+      "alpha3": "TLS",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "TL",
+      "calling": "+670"
+    },
+    {
+      "name": "Togo",
+      "numeric": "768",
+      "alpha3": "TGO",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "TG",
+      "calling": "+228"
+    },
+    {
+      "name": "Tokelau",
+      "numeric": "772",
+      "alpha3": "TKL",
+      "continent": "OC",
+      "currency": "USD",
+      "alpha2": "TK",
+      "calling": "+690"
+    },
+    {
+      "name": "Tonga",
+      "numeric": "776",
+      "alpha3": "TON",
+      "continent": "OC",
+      "currency": "USD",
+      "alpha2": "TO",
+      "calling": "+676"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "numeric": "780",
+      "alpha3": "TTO",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "TT",
+      "calling": "+868"
+    },
+    {
+      "name": "Tunisia",
+      "numeric": "788",
+      "alpha3": "TUN",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "TN",
+      "calling": "+216"
+    },
+    {
+      "name": "Turkey",
+      "numeric": "792",
+      "alpha3": "TUR",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "TR",
+      "calling": "+90"
+    },
+    {
+      "name": "Turkmenistan",
+      "numeric": "795",
+      "alpha3": "TKM",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "TM",
+      "calling": "+993"
+    },
+    {
+      "name": "Turks and Caicos Islands",
+      "numeric": "796",
+      "alpha3": "TCA",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "TC",
+      "calling": "+649"
+    },
+    {
+      "name": "Tuvalu",
+      "numeric": "798",
+      "alpha3": "TUV",
+      "continent": "OC",
+      "currency": "USD",
+      "alpha2": "TV",
+      "calling": "+688"
+    },
+    {
+      "name": "Uganda",
+      "numeric": "800",
+      "alpha3": "UGA",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "UG",
+      "calling": "+256"
+    },
+    {
+      "name": "Ukraine",
+      "numeric": "804",
+      "alpha3": "UKR",
+      "continent": "EU",
+      "currency": "USD",
+      "alpha2": "UA",
+      "calling": "+380"
+    },
+    {
+      "name": "United Arab Emirates",
+      "numeric": "784",
+      "alpha3": "ARE",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "AE",
+      "calling": "+971"
+    },
+    {
+      "name": "United Kingdom",
+      "numeric": "826",
+      "alpha3": "GBR",
+      "continent": "EU",
+      "currency": "GBP",
+      "alpha2": "GB",
+      "calling": "+44"
+    },
+    {
+      "name": "United States",
+      "numeric": "840",
+      "alpha3": "USA",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "US",
+      "calling": "+1"
+    },
+    {
+      "name": "United States Minor Outlying Islands",
+      "numeric": "581",
+      "alpha3": "UMI",
+      "continent": "OC",
+      "currency": "USD",
+      "alpha2": "UM",
+      "calling": "+1"
+    },
+    {
+      "name": "Uruguay",
+      "numeric": "858",
+      "alpha3": "URY",
+      "continent": "SA",
+      "currency": "USD",
+      "alpha2": "UY",
+      "calling": "+598"
+    },
+    {
+      "name": "Uzbekistan",
+      "numeric": "860",
+      "alpha3": "UZB",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "UZ",
+      "calling": "+998"
+    },
+    {
+      "name": "Vanuatu",
+      "numeric": "548",
+      "alpha3": "VUT",
+      "continent": "OC",
+      "currency": "USD",
+      "alpha2": "VU",
+      "calling": "+678"
+    },
+    {
+      "name": "Venezuela, Bolivarian Republic of",
+      "numeric": "862",
+      "alpha3": "VEN",
+      "continent": "SA",
+      "currency": "USD",
+      "alpha2": "VE",
+      "calling": "+58"
+    },
+    {
+      "name": "Vietnam",
+      "numeric": "704",
+      "alpha3": "VNM",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "VN",
+      "calling": "+84"
+    },
+    {
+      "name": "Virgin Islands, British",
+      "numeric": "092",
+      "alpha3": "VGB",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "VG",
+      "calling": "+284"
+    },
+    {
+      "name": "Virgin Islands, U.S.",
+      "numeric": "850",
+      "alpha3": "VIR",
+      "continent": "NA",
+      "currency": "USD",
+      "alpha2": "VI",
+      "calling": "+340"
+    },
+    {
+      "name": "Wallis and Futuna",
+      "numeric": "876",
+      "alpha3": "WLF",
+      "continent": "OC",
+      "currency": "USD",
+      "alpha2": "WF",
+      "calling": "+681"
+    },
+    {
+      "name": "Western Sahara",
+      "numeric": "732",
+      "alpha3": "ESH",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "EH",
+      "calling": "+212"
+    },
+    {
+      "name": "Yemen",
+      "numeric": "887",
+      "alpha3": "YEM",
+      "continent": "AS",
+      "currency": "USD",
+      "alpha2": "YE",
+      "calling": "+967"
+    },
+    {
+      "name": "Zambia",
+      "numeric": "894",
+      "alpha3": "ZMB",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "ZM",
+      "calling": "+260"
+    },
+    {
+      "name": "Zimbabwe",
+      "numeric": "716",
+      "alpha3": "ZWE",
+      "continent": "AF",
+      "currency": "USD",
+      "alpha2": "ZW",
+      "calling": "+263"
+    }
+  ]
+}
